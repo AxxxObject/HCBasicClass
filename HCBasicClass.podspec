@@ -34,9 +34,9 @@ TODO: Add long description of the pod here.
   #   'HCBasicClass' => ['HCBasicClass/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  #s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'MJExtension'
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  s.source_files  = 'Classes', 'Classes/**/*.{h,m}'
 
 end
