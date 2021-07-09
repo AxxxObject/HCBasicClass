@@ -21,7 +21,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
 
-  spec.homepage     = "https://github.com/AxxxObject/HCBasicClass"
+  spec.homepage     = "https://github.com/AxxxObject"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
   spec.license      = "MIT (example)"
   spec.author             = { "杨风波" => "314366572@qq.com" }
