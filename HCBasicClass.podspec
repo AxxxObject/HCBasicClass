@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
   spec.license      = "MIT (example)"
   spec.author             = { "杨风波" => "314366572@qq.com" }
-  spec.source       = { :git => "https://github.com/AxxxObject/HCBasicClass.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/AxxxObject/HCBasicClass.git", :tag => spec.version }
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
   spec.frameworks = 'UIKit'
   spec.dependency "MJExtension"
